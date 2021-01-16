@@ -52,7 +52,7 @@
 推免生资格入学。在 HPC 上使用 [MPICH](https://www.mpich.org/) 和 [OpenMP](https://www.openmp.org/) 实现
 以 [ADMM](https://stanford.edu/~boyd/admm.html) 算法为理论基础的分布式机器学习的系统、通信库。
 
-- **上海海洋大学，信息学院 计算机科学与技术**
+- **上海海洋大学 信息学院 计算机科学与技术**
 
 2016 年 9 月 - 2020 年 6 月 上海 全日制工学学士
 
