@@ -64,3 +64,5 @@
 
 GPA：3.53/4；CET4：601；获取推免生名额（2.5/105）；学位论文：基于微服务的河蟹大赛评比管理系统。
 
+
+_获取 A4 版本请至公开的 [Google Docs](https://docs.google.com/document/d/1o7iQKDF-_HZUHg6cGiCSl6txrcuQ2tbQttHFFAUeRhc)版本_
