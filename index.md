@@ -43,6 +43,12 @@
 1. Flask 定时任务服务端：[APScheduler](https://apscheduler.readthedocs.io/en/stable/)，web hook ；
 2. Flask RESTful HTTP服务端：抓取内容，消费、生产 MQ 消息。
 
+- **同态科技 [ttaicloud](https://www.ttaicloud.com/)**
+
+2018 年 3 月 - 2019 年 6 月 上海 软件开发工程师（实习）
+
+1. 加密算法及相关产品的 Java 原型实现：[一些位运算 tricks](https://blog.csdn.net/weixin_40411846/article/details/79580431)
+
 ## 教育背景
 
 - **上海大学 计算机工程与科学学院 电子信息（软件工程方向）**
