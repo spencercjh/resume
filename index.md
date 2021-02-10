@@ -26,7 +26,7 @@
 2. 为一个 Data Stream 项目贡献了其中大量代码：[AVS](https://avs.auto/), Micronaut, WebSocket, Socket，解决数据流时间同步和内存、TCP 连接泄漏，复杂的业务和 OOP
    设计；
 3. 为多个 Java 服务端接入 [Prometheus](https://prometheus.io/) & [Grafana](https://grafana.com/) ；
-4. 编写和串联 [Argo Workflows](https://argoproj.github.io/argo/) 上的计算任务：Python, K8s ；
+4. 编写和串联 [Argo Workflows](https://argoproj.github.io/projects/argo) 上的计算任务：Python, K8s ；
 5. 编写各种数据清洗 Python 脚本；
 6. 制定了 Python 和 [Protobuf](https://developers.google.com/protocol-buffers/) 项目在 IDE 和 CI Pipeline 中的 format &
    Lint：[flake8](https://flake8.pycqa.org/en/latest/), [EditorConfig](https://editorconfig.org/), [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html) ；
