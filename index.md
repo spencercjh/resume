@@ -8,6 +8,9 @@
 - Github: [@spencercjh](https://github.com/spencercjh)
 - Linkedin: [@spencercjh](https://www.linkedin.com/in/spencercjh/)
 - LeetCode: [@spencercjh](https://leetcode-cn.com/u/spencercjh/)
+- WeChat: spencercjh
+
+**仅接受*上海*的实习、工作**
 
 ## 技能
 
@@ -15,7 +18,7 @@
 
 ## 工作经历
 
-- **赢彻科技 [inceptio.ai](https://www.inceptio.ai/)** _AD/Infrastructure_
+- **嬴彻科技 [inceptio.ai](https://www.inceptio.ai/)** _AD/Infrastructure_
 
 2020 年 2 月 - 2020 年 11 月 上海 后端开发工程师（实习）
 
