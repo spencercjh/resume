@@ -26,11 +26,10 @@
 2. 为一个 Data Stream 项目贡献了其中大量代码：[AVS](https://avs.auto/), Micronaut, WebSocket, Socket，解决数据流时间同步和内存、TCP 连接泄漏，复杂的业务和 OOP
    设计；
 3. 为多个 Java 服务端接入 [Prometheus](https://prometheus.io/) & [Grafana](https://grafana.com/) ；
-4. 编写和串联 [Argo Workflows](https://argoproj.github.io/projects/argo) 上的计算任务：Python, K8s ；
-5. 编写各种数据清洗 Python 脚本；
-6. 制定了 Python 和 [Protobuf](https://developers.google.com/protocol-buffers/) 项目在 IDE 和 CI Pipeline 中的 format &
+4. 编写和串联 [Argo Workflows](https://argoproj.github.io/projects/argo) 上的计算任务：Python, K8s，[总结](https://github.com/Zheaoli/weekly-share/issues/14) ；
+5. 制定了 Python 和 [Protobuf](https://developers.google.com/protocol-buffers/) 项目在 IDE 和 CI Pipeline 中的 format &
    Lint：[flake8](https://flake8.pycqa.org/en/latest/), [EditorConfig](https://editorconfig.org/), [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html) ；
-7. 跟随 Micronaut 的更新维护现有相关项目；迁移 [Bazel](https://bazel.build/) 项目至 Gradle 。
+6. 跟随 Micronaut 的更新维护现有相关项目；迁移 [Bazel](https://bazel.build/) 项目至 [Gradle](https://gradle.org/) 。
 
 - **博世软件创新 [Bosch.IO](https://bosch.io/)**
 
@@ -59,7 +58,7 @@
 2020 年 9 月 - 2023 年 4 月 上海 全日制专业硕士
 
 推免生资格入学。在 HPC 上使用 [MPICH](https://www.mpich.org/) 和 [OpenMP](https://www.openmp.org/) 实现
-以 [ADMM](https://stanford.edu/~boyd/admm.html) 算法为理论基础的分布式机器学习的系统、通信库。
+以 [ADMM](https://stanford.edu/~boyd/admm.html) 算法为理论基础的分布式机器学习框架。
 
 - **上海海洋大学 信息学院 计算机科学与技术**
 
